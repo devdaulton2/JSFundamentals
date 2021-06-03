@@ -53,3 +53,4 @@ FB % 3 === 0 && FB % 5 === 0
     ? console.log("FizzBuzz")
     : FB % 5 === 0 ? console.log("Buzz") 
     : FB % 3 === 0 ? console.log("Fizz")
+    :console.log("Your number isn't divisible by 3 or 5")
